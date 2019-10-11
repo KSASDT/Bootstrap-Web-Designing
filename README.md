@@ -13,30 +13,28 @@ File and Directory Structure:
 -----------------------------
 Files includes:
 
-           add book folder                        : To add books 
-           add members                            : To add students/members
-           BookListLoader.java                    : Shows List of Books
-           MemberListLoader                       : Shows List of students/members
-           mainLoader.java                        : To assemble all functions of library
+           index.html                             : main bootstrap website file
           
           
 Functional description of the project is as follows:
 -----------------------------------------------------
-(i) Registration is offered. Then a registered user logs into the LMS software
+(i) This Bootstrap Website contains 6 web pages includes Home, Services, Portfolio, About, Team, Contact page.
 
-(ii) Add books, Add members, Issuing books, Submission, Renewal, Member List, Book List, Issued Book List, Fine List are provided
+(ii) Customized according to user requirements
 
-(iii) The dashboard is display to user on which renewel/issue/submission actions performed
+(iii) Various features such as  image Carousel, Cards, contact form are added beautifully.
 
-(iv) This information can be exported in PDF format
+(iv) fully responsive ( to make it look good on all devices like desktops, mobiles, tablets).
 
-(v)  Compatible with windows, Linux, Unix, iOS.
+(v)  Back end work is handled with PHP and MySQL.
 
 
 Languages and Tools Used:
 -------------------------
-   1. Eclipse Java EE IDE
-   2. Java
-   3. JavaFX
-   4. Derby
+   1. Atom Text Editor
+   2. HTML
+   3. CSS
+   4. Bootstrap
+   5. PHP
+   6. MySQL
 
