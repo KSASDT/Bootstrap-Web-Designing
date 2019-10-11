@@ -1,0 +1,2 @@
+# Bootstrap-Web-Designing
+Developed a responsive, mobile first website using Bootstrap 4, Html, CSS, JavaScript and PHP. Front page is built using  image Carousel that use as slideshow for cycling through various services provided by the company. Cards are used for the detailed description of the services. And for contacting purpose contact form is created using HTML, CSS and made it functional using PHP and MySQL database.
