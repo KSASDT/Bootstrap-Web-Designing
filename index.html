@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Bootstrap</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=0.41 maximum-scale=1">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <!-- nav strip -->
+    <div class="bgimg">
+      <nav class="<navbar navbar-expand-md bg-dark navbar-dark fixed-top">   <!-- ths bootstrap class for dropdown <menu in mobile view -->
+        <div class="container">
+          <a href="" class="navbar-brand text-warning font-weight-bold tgb" > TRUPTI eSOLUTIONS </a>
+          <!-- for dropdown button in mobile view-->
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsenavbar">
+             <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- for menu (when you click on btn you wll see this menu)-->
+          <div class="collapse navbar-collapse text-center" id="collapsenavbar">
+               <ul class="navbar-nav ml-auto">
+                  <li class="nav-item">
+                       <a href="" class="nav-link text-white">SERVICES</a>
+                  </li>
+                 <li class="nav-item">
+                       <a href="" class="nav-link text-white" >PORTFOLIO</a>
+                  </li>
+                  <li class="nav-item">
+                       <a href="" class="nav-link text-white">ABOUT</a>
+                  </li>
+                  <li class="nav-item">
+                       <a href="" class="nav-link text-white">TEAM</a>
+                  </li>
+                  <li class="nav-item">
+                       <a href="" class="nav-link text-white">CONTACT</a>
+                  </li>
+               </ul>
+          </div>
+        </div>
+     </nav>
+
+     <!-- front view -->
+    <div class="container text-center text-white headerset">
+       <h2> Welcome to our firm </h2>
+       <h1> IT'S NICE TO MEET YOU!</h1>
+       <button class="btn btn-warning text-white btn-lg"> SUBSCRIBE </button>
+     </div>
+  </div>
+   <!-- our services page (12 grids, divide it into 3 so 12/3=4 , so 3 blocks of 4 grids) -->
+      <section class="container ourservices text-center">
+
+        <h1> SERVICES </h1>
+        <p> We provide following services, whatever you wish you'll get :) </p>
+
+        <div class="row setset">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                  <div class="imgsetting d-block m-auto bg-warning">
+                    <i class="fa fa-slideshare fa-2x text-white"></i>
+                  </div>
+                  <h3> Software Development </h3>
+                  <p class="kmnh">We help you with complete software development needs under one roof. Our customized products fulfil all user
+                    requirements. We Bring Your Ideas To Life.</p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                  <div class="imgsetting d-block m-auto bg-warning">
+                    <i class="fa fa-desktop fa-2x text-white"></i>
+                  </div>
+                  <h3> Responsive Web Designing </h3>
+                  <p>We build perfect affordable web site development solution for Start-ups & small business company or individuals.
+                  The features you want, the simplicity you need.</p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                  <div class="imgsetting d-block m-auto bg-warning">
+                    <i class="fa fa-shopping-cart fa-2x text-white"></i>
+                  </div>
+                  <h3> E-commerce </h3>
+                  <p class="kokol"> Do you need a complete ecommerce solution to build your own ecommerce website quickly and easily? Here you go!
+                  ultimately focus on optimizing your business.</p>
+            </div>
+        </div>
+
+        <div class="row setset">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                  <div class="imgsetting d-block m-auto bg-warning">
+                    <i class="fa fa-lock fa-2x text-white"></i>
+                  </div>
+                  <h3> Web Security</h3>
+                  <p> We protect website or web application by detecting and preventing attacks. Software notifies the user if the
+                    website has any issue and provides solutions to address them.</p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                  <div class="imgsetting d-block m-auto bg-warning">
+                    <i class="fa fa-spinner fa-2x text-white"></i>
+                  </div>
+                  <h3 > Digitalization </h3>
+                  <p class="khl" >Provide integration of digital technologies into everyday life by the digitization of everything
+                    that can be digitized in this technology dependent world.</p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                  <div class="imgsetting d-block m-auto bg-warning">
+                    <i class="fa fa-info fa-2x text-white"></i>
+                  </div>
+                  <h3> IT Solutions </h3>
+                  <p>Build set of software programs and/or services that vendors, channel partners and value-added resellers
+                     deliver to customer. Solutions to diverse businesses</p>
+            </div>
+        </div>
+      </section>
+<!-- PORTFOLIO -->
+      <section class="portfolio bg-light">
+         <div class="container text-center">
+           <h1> PORTFOLIO</h1>
+           <p> Here goes our portfolio! </p>
+
+              <div class="row">
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                        <div class="card">
+                              <img src="images/otfolo/hon9.png" class="card-img img-fluid">
+                              <div class="card-body">
+                                   <h3 class="card-title"> Introduction </h3>
+                                   <p class="card-text"> Keep it brief! </p>
+                              </div>
+                        </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto ">
+                        <div class="card">
+                              <img src="images/otfolo/honk.jpg" class="card-img img-fluid ">
+                              <div class="card-body">
+                                   <h3 class="card-title kma"> Software Coding</h3>
+                                   <p class="card-text"> Think twice, code once! </p>
+                              </div>
+                        </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                        <div class="card">
+                              <img src="images/otfolo/hon23.png" class="card-img img-fluid">
+                              <div class="card-body">
+                                   <h3 class="card-title"> Advancing</h3>
+                                   <p class="card-text"> A mint of creativity </p>
+                              </div>
+                        </div>
+                  </div>
+              </div>
+
+              <div class="row">
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                        <div class="card">
+                              <img src="images/otfolo/hon99.png" class="card-img img-fluid">
+                              <div class="card-body">
+                                   <h3 class="card-title"> WEB Apps</h3>
+                                   <p class="card-text"> Building your success online </p>
+                              </div>
+                        </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                        <div class="card">
+                              <img src="images/otfolo/honkl.png" class="card-img img-fluid">
+                              <div class="card-body">
+                                   <h3 class="card-title"> Innovation </h3>
+                                   <p class="card-text"> Creative alternative solutions </p>
+                              </div>
+                        </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                        <div class="card">
+                              <img src="images/otfolo/hon88.png" class="card-img img-fluid">
+                              <div class="card-body">
+                                   <h3 class="card-title"> Designing</h3>
+                                   <p class="card-text"> Infinite possibilities </p>
+                              </div>
+                        </div>
+                  </div>
+              </div>
+         </div>
+      </section >
+
+        <section class="outeam">
+           <div class="container text-center">
+                <h1> OUR HARDWORKING TEAM </h1>
+                <p> The larger the dream, the more important the team</p>
+           <div class="row teeset">
+                <div class="col-lg-4 col-md-4 col-sm-4 col-12 d-block m-auto">
+                     <figure class="figure">
+                        <img src="images/otfolo/hon3.jpg" class="figure-img img-fluid rounded-circle" height="250px" width="250px">
+                           <figcaption>
+                               <h4 > Phoebe Kudos </h4>
+                               <p class="figure-caption"> Lead Designer </p>
+                           </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-4 col-12 d-block m-auto">
+                     <figure class="figure">
+                        <img src="images/otfolo/hon3.jpg" class="figure-img img-fluid rounded-circle" height="250px" width="250px">
+                           <figcaption>
+                               <h4 > Swati Dongre </h4>
+                               <p class="figure-caption"> Software Devloper </p>
+                           </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-4 col-12 d-block m-auto">
+                     <figure class="figure">
+                        <img src="images/otfolo/hon3.jpg" class="figure-img img-fluid rounded-circle" height="250px" width="250px">
+                           <figcaption>
+                               <h4 > Chandler Bing </h4>
+                               <p class="figure-caption"> Web Devloper </p>
+                           </figcaption>
+                    </figure>
+                </div>
+           </div>
+         </div>
+      </section>
+
+      <footer class="footer">
+        <h6 class="text-center">   Copyright @2019, designed by ksasdt </h6>
+      </footer>
+
+</body>
+</html>
