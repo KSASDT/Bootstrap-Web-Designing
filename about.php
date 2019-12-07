@@ -32,9 +32,10 @@
 
      <div class="col-lg-6 col-md-6 col-12">
       <h2 class="display-4">Welcome to our firm </h2>
-      <p class="py-3">We help you with complete software development needs under one roof. Our customized products fulfil all user
-      requirements. We Bring Your Ideas To Life. We build perfect affordable web site development solution for Start-ups & small business company or individuals.
-      The features you want, the simplicity you need. Click the below button to know more.</p>
+      <p class="py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad miniLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad miniLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad mini</p>
 
       <a href="about.php" class="btn btn-success"> Check More </a>
 
