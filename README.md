@@ -13,8 +13,12 @@ File and Directory Structure:
 -----------------------------
 Files includes:
 
-           index.html                             : main bootstrap website file
-          
+           index.html                             :  index html file
+           index.php                              :  main php file for website
+           about.php                              :  about page
+           menu.php                               :  Navigation Menu
+           style.css                              :  css file for styling
+           userinfo.php                           :  Database connection file
           
 Functional description of the project is as follows:
 -----------------------------------------------------
