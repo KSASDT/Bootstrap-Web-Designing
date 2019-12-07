@@ -72,9 +72,10 @@
 
      <div class="col-lg-6 col-md-6 col-12">
       <h2 class="display-4">Welcome to our firm </h2>
-      <p class="py-3">We help you with complete software development needs under one roof. Our customized products fulfil all user
-      requirements. We Bring Your Ideas To Life. We build perfect affordable web site development solution for Start-ups & small business company or individuals.
-      The features you want, the simplicity you need. Click the below button to know more.</p>
+      <p class="py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad miniLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad miniLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad mini</p>
 
       <a href="about.php" class="btn btn-success"> Check More </a>
 
@@ -95,7 +96,7 @@
            <img class="card-img-top" src="images/honk.jpg" alt="Card image">
                <div class="card-body">
                  <h4 class="card-title">Software Development</h4>
-                 <p class="card-text">Think twice, code once!</p>
+                 <p class="card-text">consectetur adipiscing elit, sed do eiusmod tempor</p>
                  <a href="#" class="btn btn-primary">See More</a>
               </div>
          </div>
@@ -106,7 +107,7 @@
            <img class="card-img-top" src="images/hon99.png" alt="Card image">
                <div class="card-body">
                  <h4 class="card-title">Responsive Web Designing</h4>
-                 <p class="card-text">Building your success online</p>
+                 <p class="card-text">consectetur adipiscing elit, sed do eiusmod tempor</p>
                  <a href="#" class="btn btn-primary">See More</a>
               </div>
          </div>
@@ -117,7 +118,7 @@
            <img class="card-img-top" src="images/hon88.png" alt="Card image">
                <div class="card-body">
                  <h4 class="card-title">E-commerce</h4>
-                 <p class="card-text">Happy Buying :)</p>
+                 <p class="card-text">consectetur adipiscing elit, sed do eiusmod tempor</p>
                  <a href="#" class="btn btn-primary">See More</a>
               </div>
          </div>
@@ -136,7 +137,7 @@
            <img class="card-img-top" src="images/honkl.png" alt="Card image">
                <div class="card-body">
                  <h4 class="card-title">Digitalization</h4>
-                 <p class="card-text">Creative alternative solutions</p>
+                 <p class="card-text">consectetur adipiscing elit, sed do eiusmod tempor</p>
                  <a href="#" class="btn btn-primary">See More</a>
               </div>
          </div>
@@ -147,7 +148,7 @@
            <img class="card-img-top" src="images/hon9.png" alt="Card image">
                <div class="card-body">
                  <h4 class="card-title">Web Security</h4>
-                 <p class="card-text">Infinite possibilities</p>
+                 <p class="card-text">consectetur adipiscing elit, sed do eiusmod tempor</p>
                  <a href="#" class="btn btn-primary">See More</a>
               </div>
          </div>
@@ -158,7 +159,7 @@
            <img class="card-img-top" src="images/hon23.png" alt="Card image">
                <div class="card-body">
                  <h4 class="card-title">IT Solutions</h4>
-                 <p class="card-text">A mint of creativity</p>
+                 <p class="card-text">consectetur adipiscing elit, sed do eiusmod tempor</p>
                  <a href="#" class="btn btn-primary">See More</a>
               </div>
          </div>
